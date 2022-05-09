@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilylauyw&show_icons=true&theme=highcontrast )
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylauyw&theme=highcontrast )
 
 ### 🏆 My Github Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilylauyw&show_icons=true&theme=highcontrast )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylauyw&theme=highcontrast )
+
+
 
 <!--
 **emilylauyw/emilylauyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
