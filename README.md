@@ -2,6 +2,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilylauyw&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilylauyw&theme=tokyonight)
+
 <br />
 
 ## 🧰 Languages and Tools:
